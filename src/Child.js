@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import { getRandomColor } from "./randomColorGenerator.js";
 
 function Child({ onChangeColor, color }) {
